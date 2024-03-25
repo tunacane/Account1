@@ -4,3 +4,5 @@ We created git repository on desktop called Account1
 
 We added one file inside called Day1
 Git automatically detected the changes 
+
+I am making some changes for file1.txt under Account1 repository
